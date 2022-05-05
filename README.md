@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sihukim" alt="sihukim" /></a> </p>
 
-- 🔭 I’m currently working on [ODO](https://github.com/SihuKim/odo)
-
 - 🌱 I’m currently learning **Dart, Android**
 
 <h3 align="left">Connect with me:</h3>
